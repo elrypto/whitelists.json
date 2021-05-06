@@ -4,7 +4,16 @@
     "date": "March 2, 2021 12:00:00",
     "file": "",
     "allocation": 250,
-    "pricePer": 0.125
+    "idoPricePer": 0.125,
+    "ticker": "DOWS"
+  },
+  {
+    "name": "AIOZ",
+    "date": "April 2, 2021 12:00:00",
+    "file": "",
+    "allocation": 250,
+    "idoPricePer": 0.015,
+    "ticker": "AIOZ"
   },
   {
     "name": "COLLATERAL",
