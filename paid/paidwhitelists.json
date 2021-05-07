@@ -8,6 +8,22 @@
     "ticker": "DOWS"
   },
   {
+    "name": "BLINDBOXES",
+    "date": "March 27, 2021 12:00:00",
+    "file": "",
+    "allocation": 150,
+    "idoPricePer": 0.15,
+    "ticker": "BLES"
+  },
+  {
+    "name": "spl.yt",
+    "date": "March 31, 2021 12:00:00",
+    "file": "",
+    "allocation": 200,
+    "idoPricePer": 0.042,
+    "ticker": "SHOPX"
+  },
+  {
     "name": "AIOZ",
     "date": "April 2, 2021 12:00:00",
     "file": "",
@@ -16,49 +32,100 @@
     "ticker": "AIOZ"
   },
   {
-    "name": "COLLATERAL",
-    "date": "April 16, 2021 11:00:00",
-    "file": "collateral"
+    "name": "DEEPER",
+    "date": "April 5, 2021 12:00:00",
+    "file": "",
+    "allocation": 250,
+    "idoPricePer": 0.012,
+    "ticker": "DPR"
   },
   {
-    "name": "ALPHR",
-    "date": "April 26, 2021 11:00:00",
-    "file": "alphr"
+    "name": "equalizer",
+    "date": "April 9, 2021 12:00:00",
+    "file": "",
+    "allocation": 100,
+    "idoPricePer": 0.12,
+    "ticker": "EQZ"
+  },
+  {
+    "name": "BEYOND",
+    "date": "April 12, 2021 12:00:00",
+    "file": "",
+    "allocation": 100,
+    "idoPricePer": 0.5,
+    "ticker": "BYN"
+  },
+  {
+    "name": "COLLATERAL",
+    "date": "April 16, 2021 12:00:00",
+    "file": "collateral",
+    "allocation": 100,
+    "idoPricePer": 0.4,
+    "ticker": "COLL"
   },
   {
     "name": "StackOS",
-    "date": "April 23, 2021 11:00:00",
-    "file": "stackos"
+    "date": "April 23, 2021 12:00:00",
+    "file": "stackos",
+    "allocation": 200,
+    "idoPricePer": 0.015,
+    "ticker": "STACK"
   },
   {
-    "name": "globe",
-    "date": "April 30, 2021 11:00:00",
-    "file": "globe"
+    "name": "ALPHR",
+    "date": "April 26, 2021 12:00:00",
+    "file": "alphr",
+    "allocation": 100,
+    "idoPricePer": 1.5,
+    "ticker": "ALPHR"
+  },
+  {
+    "name": "Smoothly",
+    "date": "April 27, 2021 12:00:00",
+    "file": "smoothy",
+    "allocation": 150,
+    "idoPricePer": 0.5,
+    "ticker": "SMTY"
   },
   {
     "name": "blockbank",
-    "date": "April 28, 2021 11:00:00",
-    "file": "blockbank"
-  },
-  {
-    "name": "Smoothy",
-    "date": "April 27, 2021 11:00:00",
-    "file": "smoothy"
+    "date": "April 28, 2021 12:00:00",
+    "file": "blockbank",
+    "allocation": 250,
+    "idoPricePer": 0.1,
+    "ticker": "BBANK"
   },
   {
     "name": "XFAI",
-    "date": "April 29, 2021 11:00:00",
-    "file": "xfai"
+    "date": "April 29, 2021 12:00:00",
+    "file": "xfai",
+    "allocation": 100,
+    "idoPricePer": 0.12,
+    "ticker": "XFIT"
   },
   {
-    "name": "PLETHORI",
-    "date": "May 3, 2021 11:00:00",
-    "file": "plethori"
+    "name": "Plethori",
+    "date": "May 3, 2021 12:00:00",
+    "file": "plethori",
+    "allocation": 100,
+    "idoPricePer": 0.04,
+    "ticker": "PLE"
+  },
+  {
+    "name": "globe",
+    "date": "May 4, 2021 12:00:00",
+    "file": "globe",
+    "allocation": 250,
+    "idoPricePer": 1,
+    "ticker": "GDT"
   },
   {
     "name": "Ispolink",
     "date": "May 6, 2021 11:00:00",
-    "file": "iso"
+    "file": "iso",
+    "allocation": 100,
+    "idoPricePer": 0.0016,
+    "ticker": "ISP"
   },
   {
     "name": "IOIGAME",
